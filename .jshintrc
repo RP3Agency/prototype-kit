@@ -1,0 +1,14 @@
+{
+  "undef": true,
+  "unused": true,
+  "predef": [
+  	"_"
+  ],
+  "browser": true,
+  "jquery": true,
+  "node": true,
+  "devel": true,
+  "globals": {
+    "RP3": true
+  }
+}

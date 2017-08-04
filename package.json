@@ -1,0 +1,31 @@
+{
+  "name": "PrototypeBuildKit",
+  "version": "1.1.0",
+  "description": "RP3's Prototype Build Kit, your starting point for builds of all kinds.",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-ejs": "^3.0.0",
+    "gulp-filter": "~4.0.0",
+    "gulp-html-extend": "^1.1.6",
+    "gulp-jshint": "^2.0.4",
+    "gulp-markdown": "^1.2.0",
+    "gulp-remove-html-comments": "^1.0.1",
+    "gulp-s3-upload": "^1.6.4",
+    "gulp-sass": "^2.3.2",
+    "gulp-slack": "^0.1.2",
+    "gulp-sourcemaps": "~2.2.0",
+    "gulp-watch": "^4.3.10",
+    "gulp-wrap": "^0.13.0",
+    "jshint": "^2.9.4",
+    "username": "^2.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RP3 Agency",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+html {
+	font-size: 112.5%; //(18/Browser Default (16))
+}
+
+body {
+    font: {
+		family: "roboto", Helvetica, Arial, sans-serif;
+	    size: 18px;
+	    weight: 200;
+	}
+    color: $grey;
+}
+

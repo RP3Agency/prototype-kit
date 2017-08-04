@@ -1,0 +1,17 @@
+
+/****
+* Constrain width of images to parent element size
+*/
+img.maxwidthAdaptive {
+	max-width: 100%;
+}
+
+/****
+* Prevent transitions on elements while page is loading
+*/
+
+.preload * {
+  transition: none !important;
+}
+
+
